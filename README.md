@@ -13,7 +13,6 @@
 
 ## 推荐中转接口
 - [`api.annyun.cn`](https://api.annyun.cn/)（免配置，拿 key 即可用）
-- [`api.annyun.top`](https://api.aiiai.top/register?aff=B4fi)（免配置，拿 key 即可用）
 
 ## 版本
 ### 无后台
